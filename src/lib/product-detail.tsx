@@ -7,7 +7,7 @@ const StyledProductDetail = styled.div`
 export function ProductDetail() {
   return (
     <StyledProductDetail>
-      <h1>Welcome to ProductDetail!</h1>
+      <h1>Welcome to Product Detail!</h1>
     </StyledProductDetail>
   );
 }
